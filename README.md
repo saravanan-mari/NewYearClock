@@ -1,3 +1,3 @@
-# https://year-2023.netlify.app/
+# New_Year_Clock
 
 This one shows the remaining days , hours , minutes , seconds to 2023
